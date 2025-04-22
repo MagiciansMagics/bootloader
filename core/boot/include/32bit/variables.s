@@ -1,0 +1,1 @@
+TEXT_COLOR_PM equ 0x0f
